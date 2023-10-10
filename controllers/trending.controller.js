@@ -1,6 +1,5 @@
 const { TrendingShows } = require('../models/trendingShows.model');
 const { TrendingMovies } = require('../models/trendingMovies.model');
-require('node-fetch');
 
 // Read trending shows from database 
 
