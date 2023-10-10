@@ -1,5 +1,6 @@
 const { Reviews } = require('../models/review.model');
 const { Users } = require('../models/user.model');
+const fetch = require('node-fetch');
 
 // Read the data of a specific movie
 
