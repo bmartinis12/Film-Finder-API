@@ -1,3 +1,5 @@
+const fetch = require('node-fetch');
+
 // Fetch movies api
 
 const getMovie = async (req, res) => {
