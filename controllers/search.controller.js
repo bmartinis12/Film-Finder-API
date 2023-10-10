@@ -1,4 +1,4 @@
-const fetch = require('node-fetch');
+require('node-fetch');
 
 // Fetch movies api
 
